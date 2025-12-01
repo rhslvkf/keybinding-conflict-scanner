@@ -2,6 +2,13 @@
 
 All notable changes to the "Keybinding Conflict Scanner" extension will be documented in this file.
 
+## [0.1.1] - 2025-12-01
+
+### Fixed
+- Fix image display in VS Code Marketplace by using absolute GitHub raw URLs
+- Fix ESLint warning in presenter.ts (add curly braces to if statement)
+- Update .vscodeignore to properly exclude development files
+
 ## [0.1.0] - 2025-12-01
 
 ### Initial Release

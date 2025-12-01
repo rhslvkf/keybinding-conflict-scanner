@@ -2,7 +2,7 @@
   "name": "keybinding-conflict-scanner",
   "displayName": "Keybinding Conflict Scanner",
   "description": "Automatically detect and resolve keybinding conflicts between VS Code extensions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "rhslvkf",
   "author": {
     "name": "FullMoon"
