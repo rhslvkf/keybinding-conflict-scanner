@@ -1,6 +1,6 @@
 # Keybinding Conflict Scanner
 
-![Demo](images/demo.gif)
+![Demo](https://raw.githubusercontent.com/rhslvkf/keybinding-conflict-scanner/main/images/demo.gif)
 
 **Stop wrestling with conflicting keyboard shortcuts.** This extension automatically detects keybinding conflicts when you install new VS Code extensions and helps you resolve them in seconds.
 
@@ -29,7 +29,7 @@ Only shows conflicts **involving your newly installed extension**, not every con
 
 ### ⚡ Three Resolution Options
 
-![Resolution Options](images/resolution-options.png)
+![Resolution Options](https://raw.githubusercontent.com/rhslvkf/keybinding-conflict-scanner/main/images/resolution-options.png)
 
 #### 1️⃣ Disable Keybinding
 Quickly disable the conflicting shortcut with one click.
@@ -60,7 +60,7 @@ Opens VS Code's native Keyboard Shortcuts editor with the command **pre-searched
 
 When you install your next extension, you'll see a notification if conflicts are detected:
 
-![Notification](images/notification.png)
+![Notification](https://raw.githubusercontent.com/rhslvkf/keybinding-conflict-scanner/main/images/notification.png)
 
 ```
 ⚠️ Found 1 keybinding conflict(s) from newly installed extension(s): Git Lens
@@ -87,15 +87,7 @@ Want to check for conflicts anytime?
 2. Type `Keybinding Conflict Scanner: Scan Conflicts`
 3. Press `Enter`
 
-<!-- TODO: Command Palette 스크린샷
-     파일명: command-palette.png
-
-     내용:
-     - Command Palette 열려있는 화면
-     - "Keybinding Conflict" 검색어 입력되어 있음
-     - "Scan Conflicts" 명령어 하이라이트
--->
-![Command Palette](images/command-palette.png)
+![Command Palette](https://raw.githubusercontent.com/rhslvkf/keybinding-conflict-scanner/main/images/command-palette.png)
 
 ---
 

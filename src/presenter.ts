@@ -145,7 +145,9 @@ export class ConflictPresenter {
     const parts = normalized.split(/[\s+]/);
 
     for (const part of parts) {
-      if (!part) continue;
+      if (!part) {
+        continue;
+      }
 
       // Check if it's a modifier or valid key
       const isModifier = validModifiers.includes(part);

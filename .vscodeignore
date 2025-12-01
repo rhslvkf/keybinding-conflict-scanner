@@ -11,3 +11,5 @@ vsc-extension-quickstart.md
 **/node_modules/**
 **/.DS_Store
 prd.md
+CLAUDE.md
+.claude
